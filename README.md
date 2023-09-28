@@ -1,17 +1,14 @@
 
-**Repositório de Backend**: (https://github.com/mateusramoscaetano/back-integral-m05-t10)
+**Repositório original de Backend**: (https://github.com/mateusramoscaetano/back-integral-m05-t10)
 
-**Repositório de Frontend**:(https://github.com/mateusramoscaetano/front-integral-m05-t10)
+**Repositório original de Frontend**:(https://github.com/mateusramoscaetano/front-integral-m05-t10)
 
-**URL da aplicação funcionando**: (https://effulgent-centaur-c78cd5.netlify.app)
+**URL da aplicação**: (https://effulgent-centaur-c78cd5.netlify.app)
 
-**Pull Request (PR) de Backend**:(https://github.com/cubos-academy/back-integral-m05-t10/pull/18)
-
-**Pull Request (PR) de Frontend**:(https://github.com/cubos-academy/front-integral-m05-t10/pull/15)
 
 ---
 
-# Desafio Final Equipe 4 Documentação
+# Desafio Final modulo 5 - Equipe 4
 
 
 Uma aplicação desenvolvida pelos alunos da turma 10 Desenvolvimento de Software da Cubos Academy. Essa aplicação segue um modelo de site onde o usuário (empresa) pode gerenciar as cobranças relacionadas a seus clientes.
