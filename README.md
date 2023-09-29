@@ -1,15 +1,4 @@
-
-**Repositório original de Backend**: (https://github.com/mateusramoscaetano/back-integral-m05-t10)
-
-**Repositório original de Frontend**:(https://github.com/mateusramoscaetano/front-integral-m05-t10)
-
-**URL da aplicação**: (https://effulgent-centaur-c78cd5.netlify.app)
-
-
----
-
 # Desafio Final modulo 5 - Equipe 4
-
 
 Uma aplicação desenvolvida pelos alunos da turma 10 Desenvolvimento de Software da Cubos Academy. Essa aplicação segue um modelo de site onde o usuário (empresa) pode gerenciar as cobranças relacionadas a seus clientes.
 
@@ -36,42 +25,52 @@ Uma aplicação desenvolvida pelos alunos da turma 10 Desenvolvimento de Softwar
     - Pesquisar cobranças pelo nome e pelo identificador
 ---
 
+**Repositório original de Backend**: (https://github.com/mateusramoscaetano/back-integral-m05-t10)
+
+**Repositório original de Frontend**:(https://github.com/mateusramoscaetano/front-integral-m05-t10)
+
+**URL da aplicação**: (https://effulgent-centaur-c78cd5.netlify.app)
+
+---
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
 
-
 [Figma ](https://www.figma.com/file/EsX2ltIJ6gSGFzXXCU1pQH/M05-SPRINT-03?node-id=410%3A47347)
 
-
-### Web
-
 ---
+
+### Cadastro
 
 <img src="./src/assets/imagem_2023-08-14_183448205.png" ></img>
 
 ---
+### Login 
 
 <img src="./src/assets/imagem_2023-08-14_175356859.png"></img>
 
 ---
+### Home
 
 <img src="./src/assets/imagem_2023-08-14_180336885.png" ></img>
 
 ---
-
+### Editar Cadastro
 <img src="./src/assets/imagem_2023-08-14_180508247.png" ></img>
 
 ---
+### Página de Clientes
 
 <img src="./src//assets/imagem_2023-08-14_180529096.png" ></img>
 
 ---
-
+### Página de cobranças
 <img src="./src/assets/imagem_2023-08-14_180546187.png"></img>
 
 ---
 
+### Cliente detalhado
 <img src="./src/assets/imagem_2023-08-14_180743569.png"></img>
 
 ---
