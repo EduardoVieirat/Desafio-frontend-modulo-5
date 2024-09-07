@@ -88,7 +88,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/mateusramoscaetano/front-integral-m05-t10
+$ git clone https://github.com/EduardoVieirat/front-integral-m05-t10
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd front-integral-m05-t10
